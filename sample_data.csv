@@ -1,0 +1,6 @@
+Age,Education,Education Yrs,Marital Status,Employer,Occupation,Relationship Status,Sex,Capital Gain,Capital Loss,Hours per Week,Native Country,Salary
+39, Bachelors,13, Never-married, State-gov, Adm-clerical, Not-in-family, Male,2174,0,40, United-States,77516
+50, Bachelors,13, Married-civ-spouse, Self-emp-not-inc, Exec-managerial, Husband, Male,0,0,13, United-States,83311
+38, HS-grad,9, Divorced, Private, Handlers-cleaners, Not-in-family, Male,0,0,40, United-States,215646
+53, 11th,7, Married-civ-spouse, Private, Handlers-cleaners, Husband, Male,0,0,40, United-States,234721
+28, Bachelors,13, Married-civ-spouse, Private, Prof-specialty, Wife, Female,0,0,40, Cuba,338409
